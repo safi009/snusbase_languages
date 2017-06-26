@@ -31,7 +31,7 @@ define('_ACC_NUMBER', 'quantidade de contas');
 define('_API_LOAD', 'carregamento da API'); 
 define('_SHORT_TERM', 'metas a curto prazo');
 define('_LONG_TERM', 'metas a longo prazo');
-define('_MOST_ACTIVE', 'Nós constantemente nos esforçamos para melhorar a performance de nosso site; por esse motivo, estamos deixando nossas estatísticas públicas, para todos verem. Essas estatísticas são resetadas no começo de todo mês, ou quando fazemos grandes atualizações em nossa API.');
+define('_MOST_ACTIVE', 'Nós constantemente nos esforçamos para melhorar a performance de nosso site; por esse motivo, estamos deixando nossas estatísticas públicas, para todos verem. Essas estatísticas são redefinidas no começo de todo mês, e quando fazemos grandes atualizações em nossa API.');
 
 // ACCOUNT PAGE
 define('_CHANGE_USERNAME', 'trocar nome de usuário');
