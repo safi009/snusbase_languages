@@ -29,8 +29,8 @@ define('_AVG_QUERY', 'média das pesquisas');
 define('_AVG_RESULTS', 'média dos resultados'); 
 define('_ACC_NUMBER', 'quantidade de contas');
 define('_API_LOAD', 'carregamento da API'); 
-define('_SHORT_TERM', 'metas a curto prazo');
-define('_LONG_TERM', 'metas a longo prazo');
+define('_SHORT_TERM', 'metas de curto prazo');
+define('_LONG_TERM', 'metas de longo prazo');
 define('_MOST_ACTIVE', 'Nós constantemente nos esforçamos para melhorar a performance de nosso site; por esse motivo, estamos deixando nossas estatísticas públicas, para todos verem. Essas estatísticas são redefinidas no começo de todo mês, e quando fazemos grandes atualizações em nossa API.');
 
 // ACCOUNT PAGE
