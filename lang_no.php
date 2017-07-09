@@ -19,7 +19,7 @@ define('_SIGN_OUT', 'logg ut');
 define('_WELCOME', 'velkommen,'); //eg Welcome, Username.
 
 // SUPPORT
-define('_SUPPORT', 'alternative måter å ta kontakt er twitteren og emailen våres; publicdbhost@gmail.com');
+define('_SUPPORT', 'alternative måter å ta kontakt er twitteren og emailen våres; support@snusbase.com');
 define('_MOST_ACTIVE', 'våre mest aktive kundestøtte tider er');
 define('_MONDAY_FRIDAY', 'Mandag til Fredag.');
 
@@ -31,7 +31,7 @@ define('_ACC_NUMBER', 'bruker nummer');
 define('_API_LOAD', 'api last');
 define('_SHORT_TERM', 'korttidsmål');
 define('_LONG_TERM', 'langtidsmål');
-define('_MOST_ACTIVE', 'Vi prøver hele tiden å forbedre ytelse, på grunn av dette gjør vi stattistikkene deres offentlige for hvem som helst. Disse tilbakestilles på starten av hver måned og hver gang vi oppdaterer APIen våres');
+define('_MOST_ACTIVE', 'Vi prøver hele tiden å forbedre ytelse, på grunn av dette gjør vi stattistikkene våres offentlige for hvem som helst. Disse tilbakestilles på starten av hver måned og hver gang vi der er en stor API oppdatering');
 
 // ACCOUNT PAGE
 define('_CHANGE_USERNAME', 'endre brukernavn');
@@ -43,11 +43,11 @@ define('_CHANGE_PASSWORD', 'endre passord');
 define('_PURCHASE', 'kjøp');
 define('_X_DAY_ACCESS', 'dager tilgang'); //EG "7 DAY ACCESS"
 define('_SEARCH_FEATURES', 'uendelig tilgang til søketjenester');
-define('_BASIC_WILDCARD', 'basisk wildcard');
+define('_BASIC_WILDCARD', 'grunnlegende wildcard');
 define('_CUSTOM_WILDCARD', 'egendefinert wildcard');
 define('_PRIORITIZED_SUPPORT', 'prioritert støtte');
 define('_PRIVATE_ENDPOINT', 'privat API endepunkt');
-define('_ALL_FEATURES', 'alle egenskapene av Demo og Premium');
+define('_ALL_FEATURES', 'alle egenskapene til Demo og Premium');
 define('_DAY_EMAIL_SUPPORT', '24/7 e-post støtte');
 
 // AFFILIATE PAGE
