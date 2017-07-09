@@ -1,7 +1,7 @@
 <?php
 // language: Norsk
 // made by: Snusbase Translate Team
-// updated on: 23.June.2017
+// updated on: 2.July.2017
 
 // MENU
 define('_SEARCH', 'søk');
@@ -27,16 +27,16 @@ define('_MONDAY_FRIDAY', 'Mandag til Fredag.');
 define('_P_OVERVIEW', 'ytelsesoversikt');
 define('_AVG_QUERY', 'gjennomsnitts query');
 define('_AVG_RESULTS', 'gjennomsnittlige resultater');
-define('_ACC_NUMBER', 'bruker nommer');
+define('_ACC_NUMBER', 'bruker nummer');
 define('_API_LOAD', 'api last');
-define('_SHORT_TERM', 'kort-tids mål');
-define('_LONG_TERM', 'langtids mål');
-define('_MOST_ACTIVE', 'Vi prøver hele tiden å forbedre ytelse, på grunn av dette gjør vi stattestikkene deres offentlige for hvem som helst. Disse tilbakestilles på starten av hver måned og hver gang vi oppdaterer APIen våres');
+define('_SHORT_TERM', 'korttidsmål');
+define('_LONG_TERM', 'langtidsmål');
+define('_MOST_ACTIVE', 'Vi prøver hele tiden å forbedre ytelse, på grunn av dette gjør vi stattistikkene deres offentlige for hvem som helst. Disse tilbakestilles på starten av hver måned og hver gang vi oppdaterer APIen våres');
 
 // ACCOUNT PAGE
-define('_CHANGE_USERNAME', 'endre språk');
+define('_CHANGE_USERNAME', 'endre brukernavn');
 define('_CHANGE_USERNAME_DISPLAY', 'endre visningsnavn');
-define('_CHANGE_EMAIL', 'endre email');
+define('_CHANGE_EMAIL', 'endre e-post');
 define('_CHANGE_PASSWORD', 'endre passord');
 
 // PURCHASE PAGE
@@ -47,14 +47,14 @@ define('_BASIC_WILDCARD', 'basisk wildcard');
 define('_CUSTOM_WILDCARD', 'egendefinert wildcard');
 define('_PRIORITIZED_SUPPORT', 'prioritert støtte');
 define('_PRIVATE_ENDPOINT', 'privat API endepunkt');
-define('_ALL_FEATURES', 'all egenskapene av Demo og Premium');
-define('_DAY_EMAIL_SUPPORT', '24/7 email støtte');
+define('_ALL_FEATURES', 'alle egenskapene av Demo og Premium');
+define('_DAY_EMAIL_SUPPORT', '24/7 e-post støtte');
 
 // AFFILIATE PAGE
-define('_AFFILIATE_WELCOME', 'affiliering system');
+define('_AFFILIATE_WELCOME', 'affilieringssystem');
 define('_AFFILIATE_MADE', 'penger tjent');
-define('_AFFILIATE_KEY', 'affilierings nøkkel');
-define('_AFFILIATE_CREATE', 'generer ny nøkker');
+define('_AFFILIATE_KEY', 'affilieringsnøkkel');
+define('_AFFILIATE_CREATE', 'generer ny nøkkel');
 define('_AFFILIATE_WITHDRAW', 'ta ut');
 
 ?>
